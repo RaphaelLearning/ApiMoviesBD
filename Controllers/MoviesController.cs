@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 namespace APIMoviesBD.Controllers
 {
     [Route("/api/[controller]")]
-    public class MovieController : Controller
+    public class MoviesController : Controller
     {
         private readonly IMovieService _movieService;
 
-        public MovieController(IMovieService movieService)
+        public MoviesController(IMovieService movieService)
         {
             _movieService = movieService;
         }
