@@ -1,0 +1,54 @@
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.deps.json
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.runtimeconfig.json
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.runtimeconfig.dev.json
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.dll
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.pdb
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.csproj.CoreCompileInputs.cache
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.RazorAssemblyInfo.cache
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.RazorAssemblyInfo.cs
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.AssemblyInfoInputs.cache
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.AssemblyInfo.cs
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.RazorTargetAssemblyInfo.cache
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.dll
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.pdb
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.genruntimeconfig.cache
+C:\Users\CassiDEV\Desktop\Bkp_ProjetoWIZ - Copia\src\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.csprojAssemblyReference.cache
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.deps.json
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.runtimeconfig.json
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.runtimeconfig.dev.json
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.dll
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.pdb
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.csprojAssemblyReference.cache
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.csproj.CoreCompileInputs.cache
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.RazorAssemblyInfo.cache
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.RazorAssemblyInfo.cs
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.AssemblyInfoInputs.cache
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.AssemblyInfo.cs
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.RazorTargetAssemblyInfo.cache
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.dll
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.pdb
+C:\Users\CassiDEV\Desktop\Projeto_WIZ\APIMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.genruntimeconfig.cache
+C:\ProjetoDesafio\ApiMoviesBD\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\ProjetoDesafio\ApiMoviesBD\bin\Debug\netcoreapp2.2\appsettings.json
+C:\ProjetoDesafio\ApiMoviesBD\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\ProjetoDesafio\ApiMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.deps.json
+C:\ProjetoDesafio\ApiMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.runtimeconfig.json
+C:\ProjetoDesafio\ApiMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.runtimeconfig.dev.json
+C:\ProjetoDesafio\ApiMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.dll
+C:\ProjetoDesafio\ApiMoviesBD\bin\Debug\netcoreapp2.2\APIMoviesBD.pdb
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.csprojAssemblyReference.cache
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.csproj.CoreCompileInputs.cache
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.RazorAssemblyInfo.cache
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.RazorAssemblyInfo.cs
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.AssemblyInfoInputs.cache
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.AssemblyInfo.cs
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.RazorTargetAssemblyInfo.cache
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.dll
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.pdb
+C:\ProjetoDesafio\ApiMoviesBD\obj\Debug\netcoreapp2.2\APIMoviesBD.genruntimeconfig.cache
