@@ -16,6 +16,7 @@ namespace APIMoviesBD.Clients
     {
         private static string _urlBase;
         private static string _apiKey;
+        private static int _page;
         private HttpClient _client = new HttpClient();
         private IConfiguration _configuration;
 
@@ -51,56 +52,37 @@ namespace APIMoviesBD.Clients
         {
             try
             {
-
-                #region ENCAIXAR LÓGICA PARA TRAZER RESULTADOS DE TODAS AS PÁGINAS
-                //Movie movies;
-
-                //        HttpResponseMessage response = client.GetAsync(
-                //                    _urlBase + "upcoming?api_key=" + _apiKey + "&page=1").Result;
-
-                //        if (response.IsSuccessStatusCode)
-                //        {  //GET
-
-                //            var json = await response.Content.ReadAsStringAsync();
-                //            movies = JsonConvert.DeserializeObject<Movie>(json);
-
-                //            //foreach (PSObject result in ps.Invoke())
-                //            if (movies.TotalResults > 0)
-                //            {
-                //                // calculo de loops
-                //                var count = movies.TotalResults / movies.TotalPages;
-
-                //                List<Movie> lista = new List<Movie>();
-                //                movies.ListMovies = new List<Movie>();
-
-                //                for (_page = 1; _page <= count; _page++)
-                //                {
-                //                    HttpResponseMessage responseOutros = client.GetAsync(
-                //              _urlBase + "upcoming?api_key=" + _apiKey + "&page=" + _page).Result;
-
-                //                    var jsonOutros = await responseOutros.Content.ReadAsStringAsync();
-                //                    lista.Add((JsonConvert.DeserializeObject<Movie>(jsonOutros)));
-                //                }
-
-                //                return movies;
-                #endregion
-
                 MovieModel movies;
                 List<MovieModel> resultado = new List<MovieModel>();
 
                 HttpResponseMessage response = _client.GetAsync(
                             _urlBase + "upcoming?api_key=" + _apiKey + "&page=1").Result;
 
-                var json = response.Content.ReadAsStringAsync();
-                movies = JsonConvert.DeserializeObject<MovieModel>(json.Result);
-                resultado.Add(movies);
+                if (response.IsSuccessStatusCode)
+                {  //GET
 
-                //return Enumerable.Range(1, 5).Select(index => new MovieModel { }).ToArray();
-                //return resultado.ToList();
+                    var json = response.Content.ReadAsStringAsync();
+                    movies = JsonConvert.DeserializeObject<MovieModel>(json.Result);
+                    resultado.Add(movies);
+
+                    if (movies.TotalResults > 0)
+                    {
+                        var countPages = movies.TotalResults / movies.TotalPages;
+
+                        for (_page = 2; _page <= countPages; _page++)
+                        {
+                            HttpResponseMessage responseOutros = _client.GetAsync(
+                      _urlBase + "upcoming?api_key=" + _apiKey + "&page=" + _page).Result;
+
+                            var jsonOutros = responseOutros.Content.ReadAsStringAsync();
+                            movies = JsonConvert.DeserializeObject<MovieModel>(jsonOutros.Result);
+                            resultado.Add(movies);
+                        }
+                    }
+                }
+
                 return resultado.ToList();
-
             }
-
             catch (Exception ex)
             {
                 return null;

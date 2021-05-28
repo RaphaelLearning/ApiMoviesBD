@@ -45,7 +45,7 @@ namespace APIMoviesBD.Domain.Models
         public long Id { get; set; }
 
         [JsonProperty("original_language")]
-        public OriginalLanguage OriginalLanguage { get; set; }
+        public string OriginalLanguage { get; set; }
 
         [JsonProperty("original_title")]
         public string OriginalTitle { get; set; }
@@ -74,7 +74,5 @@ namespace APIMoviesBD.Domain.Models
         [JsonProperty("vote_count")]
         public long VoteCount { get; set; }
     }
-
-    public enum OriginalLanguage { En, Ja, Es, Da, Ko, It };
 }
 
